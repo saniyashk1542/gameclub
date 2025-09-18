@@ -18,7 +18,7 @@ import com.saniya.gameclub.exceptions.IdNotPresentException;
 import com.saniya.gameclub.modal.Game;
 import com.saniya.gameclub.services.GameService;
 
-p
+
 @RestController
 @RequestMapping(path = "/games")
 public class GameController {
